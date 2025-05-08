@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"680e5a0aff20ebe8","type":"text","text":"Innate Immune System","x":-277,"y":-196,"width":250,"height":60},
+		{"id":"ae49411e6001557a","type":"text","text":"Adaptive Immune System","x":69,"y":-195,"width":231,"height":50},
+		{"id":"c922c9eec6cd312a","type":"text","text":"Divisions of Immune System","x":-100,"y":-480,"width":250,"height":60},
+		{"id":"f44e765d61c5e08d","type":"text","text":"Cell mediated","x":-27,"y":-40,"width":147,"height":50},
+		{"id":"55aba397563903ce","type":"text","text":"Humoral","x":300,"y":-50,"width":95,"height":60},
+		{"id":"8c467e4a5cfe71c2","type":"text","text":"Bone Marrow","x":60,"y":80,"width":250,"height":50}
+	],
+	"edges":[
+		{"id":"58b03f4e916e4d4d","fromNode":"c922c9eec6cd312a","fromSide":"bottom","toNode":"680e5a0aff20ebe8","toSide":"top"},
+		{"id":"8c757f2c98bb91aa","fromNode":"c922c9eec6cd312a","fromSide":"bottom","toNode":"ae49411e6001557a","toSide":"top"},
+		{"id":"f55a0f0ec5db6cfb","fromNode":"ae49411e6001557a","fromSide":"bottom","toNode":"f44e765d61c5e08d","toSide":"top"},
+		{"id":"c78e16c67790de2c","fromNode":"ae49411e6001557a","fromSide":"bottom","toNode":"55aba397563903ce","toSide":"top"}
+	]
+}

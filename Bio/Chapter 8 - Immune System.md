@@ -1,5 +1,77 @@
 #3B
 ## Structure of Immune System
+### Organized
+- What are the 2 divisions of the immune system?
+	- Innate
+	- Adaptive
+	  
+- What are the cell types associated with the immune system
+	- B Cells
+	- T Cells
+	- Professional Antigen Presenting Cells
+		- Dendritic Cells in the skin
+	- Macrophages
+		- Resident population of phagocytic immune cells in a specific tissue
+	- Granulocytes
+		- Basophils
+		- Esinophils
+		- Neutrophils
+	- Agranulocytes
+		- Monocytes - Phagocytic cell in the blood.
+		- Lymphocytes
+			- Produce antibodies
+			- Targeted killing of immune cels
+	- Natural Killer Cells
+
+- What are agranulocytes?
+	- Don't have granules
+
+- What is a lymphocytes do? 
+	- Create antibodies
+	- Modulate immune response
+	- Do targeted killing of infected cells
+
+- What is a monocyte?
+	- Phagocytic cells in the blood
+
+- What is a macrophage?
+	- Resident populations of cells in places
+
+- What is a B cell?
+
+- What is a T cell?
+
+- What kinds of T cells?
+	- Supressor T cells - Calm down the immune system after you've contaiend the infection
+	- Memory T cells - 
+
+- What are professional antigen presenting cells?
+	- Cells that specialize in presenting antigens to other cells
+
+- What are the organs of the immune system?
+	- Lymph Nodes
+	- Spleen
+	- Thymus
+	- Bone Marrow
+	- GALT (Gut associated Lymphoid Tissue)
+		- Tonsils
+		- Adenoids
+		- Peyer's Patches
+		- Stomach
+		- Appendix - Lymphoid aggregates
+	- Small intestine
+
+- What is antibody
+	- Are used to recognize foreign bodies and have different responses depending on the location
+
+- Structure of antibody
+	- 2 light chains and 2 heavy chains. Held together by disulfide linkages
+	- Antigen binding region
+		- Contains a variable region at the end
+		- Will undergo hypermutation to bind to an antigen
+	- Constant region
+
+### Rough
 - Distinguish between innate and adaptive immunity
 	- Innate
 		- Always active
@@ -92,6 +164,13 @@
 - Draw comparisons between B- and T-cells, including their development, maturation, functions, specificity, and control mechanisms
 - Identify immune cells as granulocytes or agranulocytes
 ## Innate Immune System
+### Organized
+- What are the organs of the immune system
+
+- What is the complement system?
+	- Innate immune system in the blood
+	- 
+### Rough
 - What are parts of innate immune system?
 	- Skin
 		- Defensins - Antibacterial enzymes on the skin
@@ -136,7 +215,6 @@
 			- MHC binds to pathogenic peptide, carries it cell surface, recognized by adaptive immune system.
 			- Release cytokines that stimulate inflammation
 
-
 - MHC
 	- Class I
 		- Expressed by all nucleated cells
@@ -158,7 +236,8 @@
 	- Nonspecific lymphocyte
 	- Detects downregulation of MHC protein
 	- induce apoptosis of viral cells
-	- Cancer cells also downregulate MHC production so also offers protection from cancer tooj
+	- Cancer cells also downregulate MHC production so also offers protection from cancer too
+
 
 - Granulocytes
 	- Basophils
@@ -181,6 +260,21 @@
 - Differentiate between MHC-I and MHC-II
 - Recall the stimuli required for activating natural killer cells, neutrophils, eosinophils, basophils, and mast cells
 ## Adaptive Immune System
+### Organized
+- 2 divisions of the adaptive immune system?
+	- Cell mediated
+	- Humoral immunity
+
+- Cell Mediated Immunity
+	- Relies on T cells
+
+	- What is positive selection of T cells?
+	- What is negative selection of T cells?
+		- MHC
+		  	  
+- Humoral Immunity
+	- Relies on B cells
+### Rough
 - Recall the major classes of lymphocytes and their functions
 	- B cells
 		- Produced in the bone marrow and mature in splen
@@ -193,13 +287,12 @@
 	- Antibodies are specific to antigens of the microbe
 	- Antibodies produced by B cells
 
-
 - Describe the three main effects that circulating antibodies can have on a pathogen
 	- Agglutination - Antibodies cause the pathogens to clump together
 	- Opsonization - Antibodies mark pathogens to killed by other immune cells
 	- Prevent pathogen from invading tissues
 
-- Antibody effects on cell surface antibodies
+- Antibody effects on cell surface markers
 	- Binding of antigen to a B cell causes activation of that cell, resutling in proliferation and formation of plasma and memory cells
 
 	- When antigen binds to mast cell, causes degranulation (release granules and cause allergic reaction)

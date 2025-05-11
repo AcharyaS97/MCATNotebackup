@@ -170,6 +170,13 @@
 - What is the complement system?
 	- Innate immune system in the blood
 	- 
+
+- What kinds of cells are part of the innate immune system?
+	- Granulocytes
+		- Basophils
+		- Esinophils
+		- Neutrophils
+	- Natural Killer 
 ### Rough
 - What are parts of innate immune system?
 	- Skin

@@ -25,6 +25,6 @@
 - What are calluses?
 - What is hair?
 - What is hormonal control?
-- - Recall the predominant cell type in the epidermis
+- Recall the predominant cell type in the epidermis
 - Order the layers of the epidermis and dermis
 - Describe the mechanisms the body uses to regulate temperature using the integument

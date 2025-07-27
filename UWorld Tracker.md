@@ -334,3 +334,23 @@ What din't work
 
 
 - INtegrations ![[Pasted image 20250709142348.png]]
+
+## 7/9/2025 - CP
+### Test Taking
+- Dumb mistake
+- 
+### Content
+- Saying that something increases by 50%, how do you get the new value?
+	- Multiply by 1.5
+
+- Degrees of unsaturation
+
+
+- Vacuum distillation decreases the boiling point of a solution![[Pasted image 20250714134951.png]]
+- Distillation
+	- Simple vs vacuum vs nothers
+
+- IR Spectra
+![[Pasted image 20250714142022.png]]
+
+

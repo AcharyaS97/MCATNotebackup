@@ -1,3 +1,4 @@
+Split screen obsidian and Anki Don't insert tax 
 ## BB
 ### Sorted
 ### 🧪 **Biochemistry – Enzymes, Kinetics, Metabolism**
@@ -18,15 +19,16 @@
 
 - enzyme kinetics from a graph
     
-- Dissociation constant for protein
-    
-- [x] What is competitive antagonism? ✅ 2025-07-08
+- ~~Dissociation constant for protein~~
+
+- - Enzyme kinematics
+	- What can change Km,Ki, Vmax, Kcat, what can't?
+
+- [x] ~~What is competitive antagonism? ✅ 2025-07-08~~
     
     - The same as competitive inhibition
         
 - Restriction site problems
-    
-- cDNA
     
 - Carbon tracking of sections of different molecules in metabolic pathways
     
@@ -38,40 +40,28 @@
     
 - Which Krebs enzymes produce NADH?
   
-- Sanger sequencing
+- ~~Sanger sequencing~~
   
 - How does the presence of some amino acids affet the pka of others?
 
+- Indole vs Imidazole
+	- 
 ---
 
 ### 🍬 **Biochemistry – Carbohydrates & Related Tests**
-
 - Carbohydrates
-    
-    - Identification
-        
+    - Identification        
         - Ribose
-            
         - Fructose
-            
-    - Tollens test
-        
-
 ---
-
 ### 🧬 **Nucleotides & Nucleic Acids**
-
 - ATCG nucleotide identification
     
 - tRNA
     
 - mRNA binding and stuff
-    
-
 ---
-
 ### 🧪 **Metabolism – Specific Pathways**
-
 - Pentose Phosphate enzymes
     
 - FA Ox enzymes
@@ -83,70 +73,49 @@
 - Is TCA high or low during ketone formation?
     
 - What are metabolic markers of starving?
-    
     - NADH/NAD ratio, hormones, etc
-        
     - TCA cycle high or low?
-        
-
 ---
-
 ### 🧠 **Physiology – Nervous & Muscle Systems**
+- Cell membrane potential
+	- What affects the resting and threshold potential of a cell? How is it maintained?
+	- How to affect the resting vs membrane vs peak potential of a membrane?
 
-- What affects the resting and threshold potential of a cell? How is it maintained?
-    
-- How to affect the resting vs membrane vs peak potential of a membrane?
-    
 - How modulate? ![[Pasted image 20250705144912.png]]
     
 - Slow vs fast twitch
     
 - Aspects of cardiac vs smooth muscle
-    
-
 ---
-
 ### 🫀 **Circulatory & Respiratory**
+- What happens during left and right shift of oxyhemoglobin curve
 
 - Systolic vs diastolic pressure, aspects of a BP reading
-    
-- What happens during left and right shift of oxyhemoglobin curve
-    
+     
 - What is the most important factor in determining oxygen carrying of an RBC?
     
 - When is erythropoietin secreted?
     
 - Lung capacities in a spirogram
-    
 
 ---
 
 ### 🦴 **Skeletal System & Hormones**
-
 - Bone formation
-    
     - Osteoblast vs osteoclast
         
-- What is a Volkmann canal? What is Haversian?
+- ~~What is a Volkmann canal? What is Haversian?~~
     
 - Effect of female sex hormones on bone mass
     
 - Differences between different types of hormones and which need carriers
-    
-
 ---
-
 ### ⚖️ **Homeostasis – Renal, Electrolytes, etc.**
-
 - Afferent vs efferent arterioles and vasodilation/constriction, on the rate of glomerular filtration
     
 - Things that affect glomerular filtration rate
-    
-
 ---
-
 ### 🧫 **Microbiology & Immunology**
-
 - Characteristics of bacteria vs viruses
     
 - Differences between prokaryotes and viruses
@@ -155,39 +124,25 @@
     
     - ![[Pasted image 20250705140405.png]]
         
-
 ---
-
 ### 💓 **Cardiac Electrical System**
-
 - Parts of the ECG wave
-    
     - P vs Q vs QRT
-        
-
 ---
-
 ### 🧍 **Skin and Membrane Transport**
-
 - Functions of the skin
     
 - Layers of the skin
     
 - What structure on a phospholipid prevents hydrophilic things from passively diffusing into the cell?
-    
-
 ---
 
 ### ⚠️ **Iffy / Needs Clarification**
-
 - Q vs E
     
 - T vs S structure
     
 - X10234Y – I can never keep straight what this is
-    
-
-Let me know if you want a **study schedule**, **flashcards**, or clarification on any of the “iffy” ones!
 ### Unsortd
 - Carbohydrates
 	- Identifcation
@@ -353,29 +308,59 @@ Let me know if you want a **study schedule**, **flashcards**, or clarification o
 
 - Ionic radii trends
 ### Sorted
+###  **Physics - Circuits**
+- Effect of changing voltage, current, resistance, on electric field, potential energy, etc
+- Kirchhoff's laws questions
+- Internal resistance question
+- Capacitance in relation to voltage and current and charge
 
+###  **Physics  - Light**
+- Work function questions
 ###  **Physics – Mechanics, Units**
-- Torque and moment questions
-    https://www.livingston.org/cms/lib4/NJ01000562/Centricity/Domain/833/practice%20test%20torque%20rotation.pdf?utm_source=chatgpt.com
-    
+- Free body questions
+
     https://bhs229.weebly.com/uploads/5/7/9/8/5798388/_torque_problems_and_answers.pdf
 - Kinematic equations
-    
-- Conversion to ppm / ppb from different things
-  
-- Fluids questions
 
+- Fluids questions
+https://www.rapidlearningcenter.com/solutions/MCAT-Physics/drills/MPH_PS14_Fluids.pdf?utm_source=chatgpt.com
 - Kinetic vs potential energy
 ---
 ### **Physics - Optics**
 - Total internal reflection
-- 
+- Optics questions 
+	- MIrrors
+	- Lenses
+	- Lensmakers equation
+
+- Refraction questions
+- Single slit quesitons
+- Double slit questions
+- Critical angle questions
+  
 ###  **Physics – Fluids**
-- All fluids questiosn
+- All fluids questions
 - Pascal's law
 - Critical speed
 - Pouseille's law
+- ~~Archimedes questions~~
+	- ~~Amount submerged~~
+
+###  **Physics – Waves**
+- Doppler (Anki)
+	- Does the velocity of the wave change or the frequency?
+	- Frequency!
+
+- Doppler
+	- Memorizing the equation
+
+- What affects the speed, frequency, wavelength, amplitude of a wave
+- Types of different kinds of open and closed pipe questions
+
 ### 🧪 **Organic Chemistry – Reactions & Synthesis**
+- Practice which proton is more acidic in chat
+
+
 - Michael addition
     
 - Gabriel synthesis
@@ -385,28 +370,27 @@ Let me know if you want a **study schedule**, **flashcards**, or clarification o
 - Reactions of aldehydes and ketones
     
 - Aldol additions, Aldol condensations
-    
+    - Enolate + aldehyde
+
 - Recognizing aldol addition vs aldol condensation
     
 - Nucleophilic acyl substitution
     
 - Rate of sn1 vs sn2 reaction
-- Base catalyzed aldol reaction,
+- Base catalyzed aldol reaction
 - Decarboxylation
+
+- Keto-enol
+	- In polar solvent, the enol is favoured because of hydrogen bonding
+	- in non polar, keto
+	- In alcohol or water, 
 
 ---
 
 ### 🧬 **Organic Molecules & Structure**
-- What is a terpene
-    
-- Amines
 - What are common electron withdrawing and donating groups
-- 
-    
 ---
-
 ### 🔬 **Analytical Chemistry – Spectroscopy & Chromatography**
-
 - IR absorptions
     
 - NMR singlet/doublet
@@ -414,32 +398,43 @@ Let me know if you want a **study schedule**, **flashcards**, or clarification o
 - NMR integrations
 
 - Gas/liquid chromatography
-    
-- Thin layer chromatography    
-    - Retardation factor and TLC vs Reverse TLC
 
-- Separations and extractions how work?
-
+- Recognize 
+	- cationanion
+	- size exclusion
+	- affinity
+	- gas-liquid chromatography
 ---
 
 ### 🧲 **General Chemistry – Trends**
-- Ionic radii trends
 - Electronegativity of CN vs Oxygen
-
-
 ---
+### 🧲 **Gen Chem - Colligative Properties**
+- Osmotic pressure
+- Vapour pressure
 
-### 🧲 **Gen Chem**
-- 
+### 🧲 **Lab stuff** 
+- https://www.youtube.com/watch?v=qZ8Xv3j8CzA Watch and make anki
+- Gel electrophoresis for proteins
+	- How it 
+	- ![[Pasted image 20250726133230.png]]
+
+- Recognizing cation vs anion vs affinity chromatography in passages grind
+
 ## PS
+- Grind confounding variable examples in chatgpt
+- grind confounding vs moderating variables in chat
+- Grind theory of planned behavior vs prototype willingness vs attitude to behavior process model in chat(ask for examples)
+- grind types of bias
+	- self serving
+	- confirmation
+	- 
 - Histamine is used in regulation of sleep/wake cycles
 - Substance P is used in regulating mood and anxiety
-- Habituation vs sensitization vs adaptation
+
 - Ethnic stereotyping vs racial profiling
 	- ![[Pasted image 20250705153513.png]]
 
-- WHat is anomie?
-- What is structural functionalism?
 
 
 - What is the striatum? What does it do? 
@@ -453,16 +448,16 @@ Let me know if you want a **study schedule**, **flashcards**, or clarification o
 	- Antipsychotics given for what?
 
 - What is chorea?
-- World systems theory
-- Demographic transition theory and what the stages are and when they happen
-		- ![[Pasted image 20250705154935.png]]
+ 1
+- ~~Demographic transition theory and what the stages are and when they happen~~
+		~~- ![[Pasted image 20250705154935.png]]~~
 
 - Diffrent sociological theories
 	  - ![[Pasted image 20250705155213.png]]
-- Differnt stages of popualtion pyramid
-- Self determination theory vs incentive theory. How to tease out which theory of motivation is at work when
+- Differnt stages of population pyramid
+	- Self determination theory vs incentive theory. How to tease out which theory of motivation is at work when
 	- ![[Pasted image 20250705155352.png]]
-- Sick role vs illness experience
+- ~~Sick role vs illness experience~~
 - ![[Pasted image 20250705155450.png]]
 
 -  Central vs peripheral cues

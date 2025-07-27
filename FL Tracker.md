@@ -272,7 +272,6 @@
 ### CP
 #### Test Taking
 - Passage questions
-- 
 
 #### Content
 - H-NMR
@@ -281,3 +280,39 @@
 ### CARs
 ### BB
 ### PS
+## AAMC FL 5 - 515
+- 1.25x time
+### CP
+#### Concepts
+- Enzyme kinematics
+	- What can change Km,Ki, Vmax, Kcat, what can't?
+
+- Why is NF3 polar? ![[Pasted image 20250726130613.png]]
+- Structure of flavin
+- Structure of pyrrole
+- Gel electrophoresis on proteins and how it works and all the different ways it can change
+	-   ![[Untitled 1.jpg]]
+- Function of a detergent
+	  ![[Pasted image 20250726135141.png]]
+- Indole vs imidazole
+
+- Cation vs anion exchange chromatography
+	- ![[Pasted image 20250726143925.png]]
+- Ki of an inhibitor
+- Practicing determination of acidic proton
+- Mechanics problems with tension 
+	- ![[Pasted image 20250726151224.png]]
+
+- Capacitance and how it changes 
+#### Test Taking
+- Silly mistake -  ![[Pasted image 20250726124816.png]]
+	- ![[Pasted image 20250726130228.png]]
+	- ![[Pasted image 20250726140539.png]]
+	- Confusing ![[Pasted image 20250726141619.png]]
+	- Kind of a stupid mistake ![[Pasted image 20250726145956.png]]
+
+### BB
+#### Test Taking
+#### Concepts
+- Details of immune system
+- Gram positive - n

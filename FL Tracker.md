@@ -313,6 +313,46 @@
 
 ### BB
 #### Test Taking
+![[Untitled 3.jpg]]
 #### Concepts
 - Details of immune system
 - Gram positive - n
+- What kind of hormone is a glycoprotein hormone?
+	- Steroid
+	- AA Hormone
+	- Peptide Hormone![[Pasted image 20250727101844.png]]
+
+
+- pH and pI ![[Untitled 2.jpg]]
+
+- Punnet square questions
+	- ![[Pasted image 20250727105210.png]]
+
+- Alpha cells, beta, glucagon
+
+- Intrathoracic pressure is the pressure between the parietal and visceral plura
+
+- How Km, Kcat, Vmax, Vo change
+
+
+- If an enhancer is mutated, then 
+
+![[Pasted image 20250727112458.png]]
+
+
+- Questions like this ![[Pasted image 20250727112543.png]]
+
+## PS 
+#### Passage Issue
+![[Untitled 5.jpg]]
+![[Untitled 6.jpg]]
+#### Test Taking
+- Stupid mitake
+- ![[Pasted image 20250727115032.png]]
+#### Content
+- - Attachment styles
+- **Social interactions are indicators of the behavioral component of an emotional response**
+- Recognizing different kinds of defense mechanisms
+- Recognition of different kidns of operant conditioning schemes 
+
+- ![[Untitled 4.jpg]]

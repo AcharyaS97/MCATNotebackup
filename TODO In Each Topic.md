@@ -2,46 +2,24 @@ Split screen obsidian and Anki Don't insert tax
 ## BB
 ### Sorted
 ### 🧪 **Biochemistry – Enzymes, Kinetics, Metabolism**
- - Enzyme inhibition
-	- Uncomp vs non comp
-	- Drilling questions
+ - ~~Enzyme inhibition~~
+	- ~~Uncomp vs non why does tcomp~~
+	- ~~Drilling questions~~
 
-- Mixed inhibiton
-	- Effects if binds ES vs E
+- ~~Mixed inhibiton~~
+	- ~~Effects if binds ES vs E~~
 
-- How to modulate Vmax, Km, Kcat
-	- Vmax only increase if the amont of enzyme increses
-	- Km only increse if the 
+- ~~How to modulate Vmax, Km, Kcat~~
+	- ~~Vmax only increase if the amont of enzyme increses~~
+	- ~~Km only increse if the~~ 
 
-- MM equation questions
-  
-- Catalytic efficiency
+- ~~MM equation questions~~
 
-- enzyme kinetics from a graph
+- ~~Enzyme kinematics~~
+	- ~~What can change Km,Ki, Vmax, Kcat, what can't?~~
     
-- ~~Dissociation constant for protein~~
-
-- - Enzyme kinematics
-	- What can change Km,Ki, Vmax, Kcat, what can't?
-
-- [x] ~~What is competitive antagonism? ✅ 2025-07-08~~
-    
-    - The same as competitive inhibition
-        
 - Restriction site problems
     
-- Carbon tracking of sections of different molecules in metabolic pathways
-    
-- Tracking number of NADH, FADH2, ATP per pyruvate in glyc
-    
-- ATP per NADH in Fat ox
-    
-- ATP per NADH in B-Ox
-    
-- Which Krebs enzymes produce NADH?
-  
-- ~~Sanger sequencing~~
-  
 - How does the presence of some amino acids affet the pka of others?
 
 - Indole vs Imidazole
@@ -55,11 +33,9 @@ Split screen obsidian and Anki Don't insert tax
         - Fructose
 ---
 ### 🧬 **Nucleotides & Nucleic Acids**
-- ATCG nucleotide identification
-    
 - tRNA
-    
 - mRNA binding and stuff
+- Questions like this ![[Pasted image 20250727112543.png]]
 ---
 ### 🧪 **Metabolism – Specific Pathways**
 - Pentose Phosphate enzymes
@@ -75,6 +51,17 @@ Split screen obsidian and Anki Don't insert tax
 - What are metabolic markers of starving?
     - NADH/NAD ratio, hormones, etc
     - TCA cycle high or low?
+
+- Tracking number of NADH, FADH2, ATP per pyruvate in glyc
+    
+- ATP per NADH in Fat ox
+    
+- ATP per NADH in B-Ox
+
+- Carbon tracking of sections of different molecules in metabolic pathways
+   
+- Which Krebs enzymes produce NADH?
+  
 ---
 ### 🧠 **Physiology – Nervous & Muscle Systems**
 - Cell membrane potential
@@ -82,14 +69,8 @@ Split screen obsidian and Anki Don't insert tax
 	- How to affect the resting vs membrane vs peak potential of a membrane?
 
 - How modulate? ![[Pasted image 20250705144912.png]]
-    
-- Slow vs fast twitch
-    
-- Aspects of cardiac vs smooth muscle
 ---
 ### 🫀 **Circulatory & Respiratory**
-- What happens during left and right shift of oxyhemoglobin curve
-
 - Systolic vs diastolic pressure, aspects of a BP reading
      
 - What is the most important factor in determining oxygen carrying of an RBC?
@@ -98,13 +79,12 @@ Split screen obsidian and Anki Don't insert tax
     
 - Lung capacities in a spirogram
 
+- Blood pressure
 ---
 
 ### 🦴 **Skeletal System & Hormones**
 - Bone formation
     - Osteoblast vs osteoclast
-        
-- ~~What is a Volkmann canal? What is Haversian?~~
     
 - Effect of female sex hormones on bone mass
     
@@ -240,75 +220,14 @@ Split screen obsidian and Anki Don't insert tax
 
 - X10234Y - I can neverkeep straight wha this is 
 ## CP
-#### Organic
-- Aldehydes and Ketones
-	- Aldol reactions
+### 🧲 **Gen Chem - Colligative Properties**
+- Osmotic pressure
+- Vapour pressure
 
-- Carboxylic Acids
-
-#### Physics 
-- Frictoin and conservaiton of energy
-- 
-- Power and voltage and current calculations
-
-- Torque and fulcrum questions
-
-- Kinematics
-	- Mechanical advantage
-
-- Fluids
-
-- ~~Atomic Physics~~
-	- ~~Decay questions~~
-
-- Waves
-	- ~~Doppler~~
-	- ~~Intensity~~
-	- Slit stuff
-	- ~~Harmonics~~
-
-- Electrostatics
-	- Capacitance
-	- Voltage
-#### Gen Chem
-- Colligative properties
-	- Henry's law
-	- Molality
-	- Osmotic pressure
-- Acids and bases
-	- WHat is pKa?
-		- Indicators at pH = pKa and below pka and above pka, and their colors
-		- ![[Pasted image 20250705122110.png]]'
-
-- Henry's law
-- ![[Pasted image 20250705123520.png]]
-#### In Total
-- Torque and moment questions
-- 
-- Gas/liquid chromatography
-- Michael addition
-- Gabriel Synth
-- Strecker Synth
-- What is a terpene
-- Amines
-- Conversion to ppm / ppb from different things
-- Total internal reflection
-- IR absorptions 
-- NMR singlet/doublet
-- ~~Tautomer and how to identify~~
-		- ~~Cyanohydrin~~
-- Reactions of aldehydes and ketones
-- Aldol additions, Aldol condensations
-- Recognizing aldol additon vs aldol condensation
-- **Kinematic equations**
-- - Condensed structural formulas to drawing
-- Nucleophilic acyl sub
-- Thin layer chromatography
-	- Retardation factor and TLC vs Reverse TLC
-
-- Ionic radii trends
-### Sorted
+###  **Physics - Electrostatics**
+- ![[Pasted image 20250802130119.png]]
 ###  **Physics - Circuits**
+- ~~Magnetism~~
 - Effect of changing voltage, current, resistance, on electric field, potential energy, etc
 - Kirchhoff's laws questions
 - Internal resistance question
@@ -318,12 +237,13 @@ Split screen obsidian and Anki Don't insert tax
 - Work function questions
 ###  **Physics – Mechanics, Units**
 - Free body questions
-
     https://bhs229.weebly.com/uploads/5/7/9/8/5798388/_torque_problems_and_answers.pdf
+    
 - Kinematic equations
 
 - Fluids questions
 https://www.rapidlearningcenter.com/solutions/MCAT-Physics/drills/MPH_PS14_Fluids.pdf?utm_source=chatgpt.com
+
 - Kinetic vs potential energy
 ---
 ### **Physics - Optics**
@@ -334,25 +254,22 @@ https://www.rapidlearningcenter.com/solutions/MCAT-Physics/drills/MPH_PS14_Fluid
 	- Lensmakers equation
 
 - Refraction questions
-- Single slit quesitons
+- Single slit questions
 - Double slit questions
 - Critical angle questions
-  
+   
 ###  **Physics – Fluids**
-- All fluids questions
-- Pascal's law
+- ~~Pascal's law~~
 - Critical speed
 - Pouseille's law
 - ~~Archimedes questions~~
 	- ~~Amount submerged~~
 
 ###  **Physics – Waves**
-- Doppler (Anki)
-	- Does the velocity of the wave change or the frequency?
-	- Frequency!
-
-- Doppler
-	- Memorizing the equation
+- ~~Doppler (Anki)~~
+	- ~~Does the velocity of the wave change or the frequency?~~
+	- ~~Frequency!~~
+	- ~~Memorizing the equation~~
 
 - What affects the speed, frequency, wavelength, amplitude of a wave
 - Types of different kinds of open and closed pipe questions
@@ -360,24 +277,25 @@ https://www.rapidlearningcenter.com/solutions/MCAT-Physics/drills/MPH_PS14_Fluid
 ### 🧪 **Organic Chemistry – Reactions & Synthesis**
 - Practice which proton is more acidic in chat
 
+- Carboxylic acid rx 
 
+- Aldehyde rx
+	 
 - Michael addition
     
 - Gabriel synthesis
-    
+
 - Strecker synthesis
-    
+
 - Reactions of aldehydes and ketones
-    
-- Aldol additions, Aldol condensations
+
+- ~~Aldol additions, Aldol condensations~~
     - Enolate + aldehyde
 
 - Recognizing aldol addition vs aldol condensation
     
-- Nucleophilic acyl substitution
-    
 - Rate of sn1 vs sn2 reaction
-- Base catalyzed aldol reaction
+  
 - Decarboxylation
 
 - Keto-enol
@@ -392,26 +310,31 @@ https://www.rapidlearningcenter.com/solutions/MCAT-Physics/drills/MPH_PS14_Fluid
 ---
 ### 🔬 **Analytical Chemistry – Spectroscopy & Chromatography**
 - IR absorptions
-    
+	- C=O 1750 broad
+	- -NH 3300 broad
+	- -OH 3300 sharp
+
 - NMR singlet/doublet
 
 - NMR integrations
 
-- Gas/liquid chromatography
+- ~~Gas/liquid chromatography~~
 
-- Recognize 
-	- cationanion
-	- size exclusion
-	- affinity
-	- gas-liquid chromatography
+- ~~Recognize~~ 
+	- ~~cationanion~~
+	- ~~size exclusion~~
+	- ~~affinity~~
+	- ~~gas-liquid chromatography~~
 ---
+### 🧲 **General Chemistry – Electrochemistry**
+- ~~Concentration cells~~
+	- ~~How they work~~
+	- ~~Questions w them~~
+	- ~~Hodgkin Goldman Katz equation~~
 
 ### 🧲 **General Chemistry – Trends**
 - Electronegativity of CN vs Oxygen
 ---
-### 🧲 **Gen Chem - Colligative Properties**
-- Osmotic pressure
-- Vapour pressure
 
 ### 🧲 **Lab stuff** 
 - https://www.youtube.com/watch?v=qZ8Xv3j8CzA Watch and make anki
@@ -419,23 +342,28 @@ https://www.rapidlearningcenter.com/solutions/MCAT-Physics/drills/MPH_PS14_Fluid
 	- How it 
 	- ![[Pasted image 20250726133230.png]]
 
-- Recognizing cation vs anion vs affinity chromatography in passages grind
+- ~~Recognizing cation vs anion vs affinity chromatography in passages grind~~
 
 ## PS
-- Grind confounding variable examples in chatgpt
-- grind confounding vs moderating variables in chat
-- Grind theory of planned behavior vs prototype willingness vs attitude to behavior process model in chat(ask for examples)
-- grind types of bias
-	- self serving
-	- confirmation
+- ~~Grind recognizing different laws~~ 
+- ~~Grind recognizing antihistrionic vs narcissistic~~
+- ~~Recognizing the different kinds of experimental research methods and when used vs not used~~
+- ~~Recognizing bias types~~
+- ~~Recognizing mediating vs confounding variables vs moderating~~
+- ~~Recognizing different kinds of stages in erikson's theory and the virtue / conflict in each~~
+- Grinding chat for diff kinds of operant conditioning examples (pos reinforcement, neg, etc)
+- Grinding chat to recognize the different kinds of defense mechanisms (reaction formation)
+- Attachment styles - Read and add to anki
+- ~~Grind confounding variable examples in chatgpt~~
+- ~~grind confounding vs moderating variables in chat~~
+- ~~Grind theory of planned behavior vs prototype willingness vs attitude to behavior process model in chat(ask for examples)~~
+- ~~grind types of bias~~
+	- ~~self serving~~
+	- ~~confirmation~~
 	- 
+
 - Histamine is used in regulation of sleep/wake cycles
 - Substance P is used in regulating mood and anxiety
-
-- Ethnic stereotyping vs racial profiling
-	- ![[Pasted image 20250705153513.png]]
-
-
 
 - What is the striatum? What does it do? 
 	- ![[Pasted image 20250705154132.png]]
@@ -448,31 +376,19 @@ https://www.rapidlearningcenter.com/solutions/MCAT-Physics/drills/MPH_PS14_Fluid
 	- Antipsychotics given for what?
 
 - What is chorea?
- 1
-- ~~Demographic transition theory and what the stages are and when they happen~~
-		~~- ![[Pasted image 20250705154935.png]]~~
-
+ 
 - Diffrent sociological theories
 	  - ![[Pasted image 20250705155213.png]]
 - Differnt stages of population pyramid
 	- Self determination theory vs incentive theory. How to tease out which theory of motivation is at work when
 	- ![[Pasted image 20250705155352.png]]
-- ~~Sick role vs illness experience~~
-- ![[Pasted image 20250705155450.png]]
 
 -  Central vs peripheral cues
 	- ![[Pasted image 20250705155738.png]]
 
-- What is social straification![[Pasted image 20250705160755.png]]
-
 - Game theory defniton
 	- ![[Pasted image 20250705160710.png]]
 
-- how to tell btween aoural and desnstiation?
-- ![[Pasted image 20250705161629.png]]
-
-- WHat is working memory
-![[Pasted image 20250705161825.png]]
-- Sensation vs perception
-	- are internal thoughts sensaitons or perceptions?
-	- ![[Untitled.jpg]]
+		![[Pasted image 20250705161825.png]]
+- ~~Sensation vs perception~~
+	- ~~are internal thoughts sensaitons or perceptions?~~ ![[Untitled.jpg]]

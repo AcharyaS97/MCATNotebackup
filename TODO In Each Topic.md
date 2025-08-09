@@ -1,7 +1,17 @@
-Split screen obsidian and Anki Don't insert tax 
 ## BB
-### Sorted
 ### 🧪 **Biochemistry – Enzymes, Kinetics, Metabolism**
+- pI calculation
+- enzyme kinetics from agraph
+	- ![[Pasted image 20250708134431.png]]
+- Mechanism of substrate binding (Random vs ping pong vs others)
+- ![[Untitled 5.jpeg]]
+
+- Restriction site problems
+    
+- How does the presence of some amino acids affet the pka of others?
+
+- ~~Indole vs Imidazole~~
+	
  - ~~Enzyme inhibition~~
 	- ~~Uncomp vs non why does tcomp~~
 	- ~~Drilling questions~~
@@ -17,13 +27,7 @@ Split screen obsidian and Anki Don't insert tax
 
 - ~~Enzyme kinematics~~
 	- ~~What can change Km,Ki, Vmax, Kcat, what can't?~~
-    
-- Restriction site problems
-    
-- How does the presence of some amino acids affet the pka of others?
 
-- Indole vs Imidazole
-	- 
 ---
 
 ### 🍬 **Biochemistry – Carbohydrates & Related Tests**
@@ -67,21 +71,17 @@ Split screen obsidian and Anki Don't insert tax
 - Cell membrane potential
 	- What affects the resting and threshold potential of a cell? How is it maintained?
 	- How to affect the resting vs membrane vs peak potential of a membrane?
-
-- How modulate? ![[Pasted image 20250705144912.png]]
+	- How modulate? ![[Pasted image 20250705144912.png]]
 ---
 ### 🫀 **Circulatory & Respiratory**
 - Systolic vs diastolic pressure, aspects of a BP reading
      
 - What is the most important factor in determining oxygen carrying of an RBC?
     
-- When is erythropoietin secreted?
+- ~~When is erythropoietin secreted?~~
     
 - Lung capacities in a spirogram
-
-- Blood pressure
 ---
-
 ### 🦴 **Skeletal System & Hormones**
 - Bone formation
     - Osteoblast vs osteoclast
@@ -110,116 +110,56 @@ Split screen obsidian and Anki Don't insert tax
     - P vs Q vs QRT
 ---
 ### 🧍 **Skin and Membrane Transport**
-- Functions of the skin
-    
-- Layers of the skin
-    
 - What structure on a phospholipid prevents hydrophilic things from passively diffusing into the cell?
+
+- ~~Functions of the skin~~ 
+- ~~Layers of the skin~~
+
 ---
-
-### ⚠️ **Iffy / Needs Clarification**
-- Q vs E
-    
-- T vs S structure
-    
-- X10234Y – I can never keep straight what this is
-### Unsortd
-- Carbohydrates
-	- Identifcation
-		- Ribose
-		- ~~Glucose~~
-		- Fructose
-		- ~~Mannose~~
-	
-	- Tollens tests
-	- ~~Common sugar identification~~
-
-- ~~Electron Transport chain~~
-
-- ~~Gluconeo enzyme~~
-
-- ~~Hormones in ovarian cycle~~
-- ~~Electron transport chain details~~
-  - ~~Reducing vs nonreducing sdspage~~
-
-- Enzyme kinetics
-  
-- Restriction site problems
-
-- cDNA
-
-- ~~Role of G6P Phosphatase~~
-
-- Pentose Phosphate enzymes
-- Enzyme inhibition
-
-- FA Ox enzymes
-- FA Synth enzymes
-
-- Characteristics of bacteria vs viruses
-  
-- tRNA
-
-- ATCG nucleotide identification
-- mRNA binding and stuff
-
-- Slow vs fast twitch
-- Keto vs gluco amino acids
-- Lung capacities in a spirogram
-- Negatively charged and positively charged side chains
-
-- Q vs E
-- T vs S structure
-- Bone formation
-	- osteoblast vs osteoclsat
-
-- Which krebs enzymes produce nadh?
-- What hapens during left and right shift of oxyhemoglobin curve
-- - What is the most important factor in determining oxygen carying of an rbc?
-- When is erythropoetin secreted?
-- What are metabolic markers of starving?
-	- Nadh/nad ratio, hormones, etc
-	- TCA cycle high or low?
-
-- Is nadh/nadh high during ketone formatoin?
-- Is TCA high or low during ketone formation?
-- Where do different types of anerobes grow in a test tube?
-	- ![[Pasted image 20250705140405.png]]
-
-- - Afferent vs efferent arteroiles and vasodilation/constriction, on the rate of glomerular filtration. Things that affect glomerfular filtration rate
-
-- Waht is a volkmann canal? what is haversian?
-
-- Differences between differnet typs of hormones and which need carriers
-  
-- What affects the resting and threshold potential of a cell? Howis it maintained?
-- How modulate? ![[Pasted image 20250705144912.png]]
-- How to affect the resting vs membrane vs peak potential of a membrane?
-- What is competitive antagonism?
-	- The same as competitive inhibition
-
-- Parts of the ECG wave
-	- P vs Q vs QRT
-
-- Carbon tracking of sections of diferent molecules in metabolic pathways
-
-- Tracking number of NADH, FADH2, ATP per pyruvate in glyc,
-- ATP per NADH in Fat ox
-- ATP per NADH in B-Ox
-- Functions of the skin
-- Layers of the skin
-- What structure on a phospholipid prevents hydrophilic things from passively diffusing down into cell?
-- MM equation questions
-- Effect of female sex hormones on bonemass
-- Difernces between proarkytes and viruses
-- Dissociation constant  for protein
-- Aspects of cardiac vs smooth muscle
-- Systolic vs diastolic pressure, aspects of a BP reading
-- enzyme kinetics from agraph
-	- ![[Pasted image 20250708134431.png]]
-
-- X10234Y - I can neverkeep straight wha this is 
 ## CP
+- 
+![[Pasted image 20250806170626.png]]
+### 🧪 **Organic Chemistry – Carboxylic Acids**
+- Imine production vs amide production, how difer
+- What happens if add reducing agent to carboxylic acid derivative?
+	- Carboxylic acid
+	- Amide
+	- Ester
+	- Acyl halide
+
+
+![[Pasted image 20250804150413.png]]
+### 🧪 **Organic Chemistry – Reactions & Synthesis**
+
+![[Untitled 1.jpeg]]
+
+![[Untitled 2.jpeg]]
+- Practice which proton is more acidic in chat
+
+- Carboxylic acid rx 
+	- Fischer
+	- Transesterification
+	- Creation of different products
+- Aldehyde and ketone reactions 
+	- ~~Michael addition~~
+	- Enolate + aldehyde
+	- Keto-enol
+		- In polar solvent, the enol is favoured because of hydrogen bonding
+		- in non polar, keto
+		- In alcohol or water, 
+
+	- ~~Aldol additions, Aldol condensations~~
+	- ~~Recognizing aldol addition vs aldol condensation~~
+    
+- Gabriel synthesis
+
+- Strecker synthesis
+
+- ~~Rate of sn1 vs sn2 reaction~~
+  
+- Decarboxylation
+
+---
 ### 🧲 **Gen Chem - Colligative Properties**
 - Osmotic pressure
 - Vapour pressure
@@ -247,6 +187,7 @@ https://www.rapidlearningcenter.com/solutions/MCAT-Physics/drills/MPH_PS14_Fluid
 - Kinetic vs potential energy
 ---
 ### **Physics - Optics**
+- Lens questions
 - Total internal reflection
 - Optics questions 
 	- MIrrors
@@ -259,13 +200,28 @@ https://www.rapidlearningcenter.com/solutions/MCAT-Physics/drills/MPH_PS14_Fluid
 - Critical angle questions
    
 ###  **Physics – Fluids**
-- ~~Pascal's law~~
+- Pressure inside a barometer how to calculate?
+- Venturi/pitot how work?
+  
+  
+![[Untitled.jpeg]]
 - Critical speed
+	- Calculation questions
+	- Conceptual questions
 - Pouseille's law
-- ~~Archimedes questions~~
-	- ~~Amount submerged~~
+	- Calculation questions
+	- Conceptual questions
+- Bernoulli's
+	- Calculation questions
+	- Conceptual questions
 
+	- Archimedes questions
+		- Amount submerged
+
+- ~~Pascal's law~~
 ###  **Physics – Waves**
+- How do displacement and time relate to frequency and wavelength?
+
 - ~~Doppler (Anki)~~
 	- ~~Does the velocity of the wave change or the frequency?~~
 	- ~~Frequency!~~
@@ -274,49 +230,21 @@ https://www.rapidlearningcenter.com/solutions/MCAT-Physics/drills/MPH_PS14_Fluid
 - What affects the speed, frequency, wavelength, amplitude of a wave
 - Types of different kinds of open and closed pipe questions
 
-### 🧪 **Organic Chemistry – Reactions & Synthesis**
-- Practice which proton is more acidic in chat
-
-- Carboxylic acid rx 
-
-- Aldehyde rx
-	 
-- Michael addition
-    
-- Gabriel synthesis
-
-- Strecker synthesis
-
-- Reactions of aldehydes and ketones
-
-- ~~Aldol additions, Aldol condensations~~
-    - Enolate + aldehyde
-
-- Recognizing aldol addition vs aldol condensation
-    
-- Rate of sn1 vs sn2 reaction
-  
-- Decarboxylation
-
-- Keto-enol
-	- In polar solvent, the enol is favoured because of hydrogen bonding
-	- in non polar, keto
-	- In alcohol or water, 
-
----
-
+![[Pasted image 20250804150655.png]]
 ### 🧬 **Organic Molecules & Structure**
 - What are common electron withdrawing and donating groups
+- Naming of alkynes
 ---
 ### 🔬 **Analytical Chemistry – Spectroscopy & Chromatography**
-- IR absorptions
-	- C=O 1750 broad
-	- -NH 3300 broad
-	- -OH 3300 sharp
+- ~~NMR~~
+	- ~~How to identify singlet/doublet~~
+	- ~~NMR integrations~~
+	- ppm of the various groups
 
-- NMR singlet/doublet
-
-- NMR integrations
+- ~~IR absorptions~~
+	- ~~C=O 1750 broad~~
+	- ~~-NH 3300 broad~~
+	- ~~-OH 3300 sharp~~
 
 - ~~Gas/liquid chromatography~~
 
@@ -344,26 +272,74 @@ https://www.rapidlearningcenter.com/solutions/MCAT-Physics/drills/MPH_PS14_Fluid
 
 - ~~Recognizing cation vs anion vs affinity chromatography in passages grind~~
 
+
+
 ## PS
-- ~~Grind recognizing different laws~~ 
-- ~~Grind recognizing antihistrionic vs narcissistic~~
-- ~~Recognizing the different kinds of experimental research methods and when used vs not used~~
-- ~~Recognizing bias types~~
-- ~~Recognizing mediating vs confounding variables vs moderating~~
-- ~~Recognizing different kinds of stages in erikson's theory and the virtue / conflict in each~~
+- Drive vs instinct
+- Optimal arousal theory
+- Discriminative stimulus vs condtiioned stimulus vs unconditioned stimulus
+- Location of rods and cones in the retina
+- Types of stimuli
+- Recognizing classical vs operant conditioning
+- Central vs peripheral message characteristics and which ones can change which
+- Grind the recognition of a control variable vs a control group
+- Details of demographic transition theory
+- WHat is a correlational design
+- Grind the recognition of stages of social identity theory
+- Grind recognizing different effect types
+- Grind the recognition of different types of stressors
+- Grind recognizing diatheses and stressors 
+![[Untitled 12.jpeg]]
+- What's the learning on this? 
+
+![[Pasted image 20250803125449.png]]
+- I had read about this topic of what constitutes a disease, but i didn't have any cards on it
+- Grind the cards on this
+- ![[Pasted image 20250803125226.png]]
+	- What the symtpoms of parkinsons are and how they will go in relation to dopamine up or down. Do for all disorders
+
+- 
+![[Untitled 11.jpeg]]
+- Wasn't able to understand this one
+
+- ![[Untitled 10.jpeg]]
+	- Grind recognizing operant conditioning vs classical conditioning
+
+
+![[Untitled 7.jpeg]]
+- Fully didn't understand what they were asking here
+
+
+![[Pasted image 20250802152647.png]]
+- I didn't know what base rate fallacy was
+- I didn't know what observer bias was
+- I just picked the one that I recognized. I didn't think through what observer bias
+  
+	-![[Pasted image 20250803123426.png]]
+	- Didn't know that texture gradient was a monocular cue
+	- D sounded like interposition?
+
+
+![[Untitled 6.jpeg]]
+- Binge drinking sounds like positive reinforcement so I chose that (**What learning from this?**)
+
+![[Pasted image 20250803123713.png]]
+- Didn't know what osmoreceptors, what chemoreceptors were, what proprioceptors were
+
+![[Pasted image 20250803123846.png]]
+- Didn't know what naming explosion meant
+- Didn't know what overextension menat
+- Didn't know what categorical perception meant
+- Didn't know what bootstrapping meant
+
 - Grinding chat for diff kinds of operant conditioning examples (pos reinforcement, neg, etc)
 - Grinding chat to recognize the different kinds of defense mechanisms (reaction formation)
 - Attachment styles - Read and add to anki
-- ~~Grind confounding variable examples in chatgpt~~
-- ~~grind confounding vs moderating variables in chat~~
-- ~~Grind theory of planned behavior vs prototype willingness vs attitude to behavior process model in chat(ask for examples)~~
-- ~~grind types of bias~~
-	- ~~self serving~~
-	- ~~confirmation~~
-	- 
 
-- Histamine is used in regulation of sleep/wake cycles
-- Substance P is used in regulating mood and anxiety
+
+- Differentiate between these
+	- Histamine is used in regulation of sleep/wake cycles
+	- Substance P is used in regulating mood and anxiety
 
 - What is the striatum? What does it do? 
 	- ![[Pasted image 20250705154132.png]]
@@ -390,5 +366,22 @@ https://www.rapidlearningcenter.com/solutions/MCAT-Physics/drills/MPH_PS14_Fluid
 	- ![[Pasted image 20250705160710.png]]
 
 		![[Pasted image 20250705161825.png]]
+
+
+### Done
+- ~~Grind recognizing different laws~~ 
+- ~~Grind recognizing antihistrionic vs narcissistic~~
+- ~~Recognizing the different kinds of experimental research methods and when used vs not used~~
+- ~~Recognizing bias types~~
+- ~~Recognizing mediating vs confounding variables vs moderating~~
+- ~~Recognizing different kinds of stages in erikson's theory and the virtue / conflict in each~~
+- ~~Grind confounding variable examples in chatgpt~~
+- ~~grind confounding vs moderating variables in chat~~
+- ~~Grind theory of planned behavior vs prototype willingness vs attitude to behavior process model in chat(ask for examples)~~
+- ~~grind types of bias~~
+	- ~~self serving~~
+	- ~~confirmation~~
+	- 
+
 - ~~Sensation vs perception~~
 	- ~~are internal thoughts sensaitons or perceptions?~~ ![[Untitled.jpg]]

@@ -342,7 +342,7 @@
 
 - Questions like this ![[Pasted image 20250727112543.png]]
 
-## PS 
+### PS 
 #### Passage Issue
 ![[Untitled 5.jpg]]
 ![[Untitled 6.jpg]]
@@ -356,3 +356,81 @@
 - Recognition of different kidns of operant conditioning schemes 
 
 - ![[Untitled 4.jpg]]
+## AAMC FL 4 - 511
+### CP
+#### Stuff I didn't know
+![[Untitled.jpeg]]
+
+
+![[Untitled 1.jpeg]]
+
+![[Untitled 3.jpeg]]
+
+![[Untitled 4.jpeg]]
+#### Stupid Mistakes
+### BB
+#### Stuff I didn't know
+- I didn't know what observer bias was
+
+#### Stupid Mistakes
+
+### PS 
+#### Stuff I didn't know
+
+![[Pasted image 20250802152647.png]]
+- I didn't know what base rate fallacy was
+- I didn't know what observer bias was
+- I just picked the one that I recognized. I didn't think through what observer bias
+  
+	-![[Pasted image 20250803123426.png]]
+	- Didn't know that texture gradient was a monocular cue
+	- D sounded like interposition?
+
+
+![[Untitled 6.jpeg]]
+- Binge drinking sounds like positive reinforcement so I chose that (**What learning from this?**)
+
+![[Pasted image 20250803123713.png]]
+- Didn't know what osmoreceptors, what chemoreceptors were, what proprioceptors were
+
+![[Pasted image 20250803123846.png]]
+- Didn't know what naming explosion meant
+- Didn't know what overextension menat
+- Didn't know what categorical perception meant
+- Didn't know what bootstrapping meant
+
+
+![[Untitled 7.jpeg]]
+- Fully didn't understand what they were asking here
+
+![[Untitled 9.jpeg]]
+- Wasn't able to figure out between classical cond and operant which one it was
+
+![[Pasted image 20250803125200.png]]
+- Wasn't able to understand the relation of a lack of dopamine to tremors
+
+
+![[Pasted image 20250803125449.png]]
+- I had read about this topic of what constitutes a disease, but i didn't have any cards on it
+
+
+![[Untitled 12.jpeg]]
+- What's the learning on this? 
+#### Stupid Mistakes
+####
+
+
+## FL 3 - 508
+### CP
+#### STupid 
+i
+#### Contnet
+![[Pasted image 20250809134137.png]]
+
+
+
+![[Pasted image 20250809134238.png]]
+
+### PS
+
+### BB
